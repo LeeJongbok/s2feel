@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html> 
+  <head> 
+  	 <link rel="stylesheet" type="text/css" href="stylesheet.css"/>
+     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+     
+      <script type="text/javascript" src="js/script.js"></script>
+      <script type="text/javascript" src="js/jquery-1.11.1.min.js"></script>
+      <script type="text/javascript" src="js/bootstrap.min.js"></script>
+
+   	 <title> Lee Jongbok </title> 
+   </head>   
+
+ <body>  	
+  
+  <div id="header">
+
+ <p> <h1 style="color:navy; font-size:30px; font-family:Subway;">  
+ 	<strong>Lee Jongbok </strong> <a href="idea.html">idea page</a>
+     </h1> </p>
+   
+   </div>
+     <div class="first lightbox"> <img src="http://wallpaper.dbgo.com/dbgodata/file/window/2039487444_f96170ba_CX009.JPG">
+	 </div>
+	 <div class="lightbox"> <img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xfa1/t1.0-9/375884_434565806589956_388480183_n.jpg">
+	 </div>
+	 <div class="lightbox"><img src="https://scontent-b.xx.fbcdn.net/hphotos-xpa1/t1.0-9/10483147_785289491495849_3324561932730964700_n.png">
+	 </div>
+    
+	 <div class="lightbox"><img src="http://postfiles4.naver.net/20140602_147/mulbitmail_1401686000683LQwyj_JPEG/x9788932909165.jpg?type=w3">
+	 </div> 
+	 <div class="lightbox"><img src="http://ncc.phinf.naver.net/20140312_9/13945837977934CPkT_JPEG/05.jpg?type=w646"></div>
+	 <div class="lightbox"><img src="http://dbscthumb.phinf.naver.net/2315_000_2/20110926125555268_4EK0KZCL2.jpg/n1453.jpg?type=m250&wm=N"></div>
+   <div class="lightbox"><img src="http://tv01.search.naver.net/ugc?t=252x448&q=http://cafefiles.naver.net/data30/2008/7/25/131/fcheck_2_free7538.jpg"></div>
+ 
+
+
+
+ </body>
+
+ </html> 

@@ -1,0 +1,7 @@
+* { border: 1px dashed black;}
+
+.head-div { border: 3px dashed black;
+	       border-radius: 3px;}
+
+#hover-act {border: 3px dashed black;
+            }

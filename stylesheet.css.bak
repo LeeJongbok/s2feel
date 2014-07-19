@@ -1,0 +1,30 @@
+
+ div.first.lightbox { height: 200px;
+                   width: 170px;
+				   }
+ .lightbox { float:left;
+ 	        height: 200px; 
+            width: 200px;
+            padding-left: 50px;
+            padding-top: 30px;
+			margin: auto;}
+
+ .lightbox2 { float:left;
+              height: 200px;
+			  width: 200px;
+			  padding-left: 50px;
+			  padding-top: 30px;}
+  
+ img { height: 160px;
+ 	   width: 160px;
+	   border-radius: 10px;
+	   padding-left: 200px;
+	   padding-top: 50px;}
+
+ #header {height: 70px; 
+ 	      width: 1350px;
+		  border: 2px solid white;
+ 	      padding-left: 220px;
+ 	      padding-top: 50px;}
+
+ 

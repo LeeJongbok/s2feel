@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title> connect-friend </title>
+   <meta charset="UTF-8">
+   <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+   <link rel="stylesheet" type="text/css" href="css/idea_stylesheet.css">
+   <script src="js/jquery-1.11.1.min.js"></script>
+   <script src="js/bootstrap.min.js"></script>
+
+</head>
+
+<body>
+     <div id="header">
+     <p> <h1 style="color:navy; font-size:70px; font-family:Subway;">  
+ 	<strong>Friendi </strong>
+
+     </h1> </p>
+
+    <ul class="nav nav-tabs" role="tablist">
+  <li class="active">
+  <a href="#">아이디어 개요</a> 
+  
+   Friendi는 가장 가까운 친구들, 그러나 자주보기 어려운 친구들을 관리해주는 어플리케이션 입니다.
+  <br>우리는 살아가면서 여러 사람들을 만나고, 소중한 인연을 맺게 됩니다.
+  하지만 시간이 흐르면서 인연을 맺었던 사람들과 여러 이유로 멀어지게 되곤 합니다.</br>
+  새로운 학교를 가고, 새로운 직장을 가면서.
+
+  Friendi는 
+  
+ 
+  </li>
+  <br>
+  <li><a href="#">needs</a></li>
+  Friendi는 자주 만나기 힘든 친한 친구들과 좋은 관계를 유지하고 싶어하는 사람들의 needs에서 출발합니다.</br> 
+  <li><a href="#">solution&value</a></li>
+  <li><a href="#">타겟</a>
+  Friendi는 자신의 친구관계를 돈독히 하고 싶은 모든 <li>
+</ul>
+ </body>
+</html>
